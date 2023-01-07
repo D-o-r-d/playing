@@ -1,3 +1,5 @@
+# This code output Brainf**k code that output words you input.
+# Maybe there is a more efficient way... but I have no idea.
 moji = str(input("words:"))
 code = [""]
 now = 0
