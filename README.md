@@ -1,2 +1,2 @@
 # playing
-# I have no idea.
+# Just a place to keep miscellaneous items.
